@@ -9,6 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "login": {
-    "email": "gramavtaragg@csc.com", "isLoggedIn": "true"
+    "Email": "gramavtaragg@csc.com"
   }
 }
