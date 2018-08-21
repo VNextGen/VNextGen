@@ -11,4 +11,9 @@
   "login": {
     "Email": "gramavtaragg@csc.com"
   }
+  "products": [
+  {"id": "1", "serialNumber": "1", "name": "Product1", "description": "Test Discription1", "category": "Category1", "warrantyExpiration": "no", "price": 10, "currency": "$"},
+{"id": "2", "serialNumber": "2", "name": "Product2", "description": "Test Discription2", "category": "Category1", "warrantyExpiration": "no", "price": 20, "currency": "$"}
+{"id": "3", "serialNumber": "3", "name": "Product3", "description": "Test Discription2", "category": "Category1", "warrantyExpiration": "no", "price": 30, "currency": "$"}
+  ]
 }
