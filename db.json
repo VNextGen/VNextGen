@@ -9,8 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "login": {
-    "Email": "gramavtaragg@csc.com",
-    "isLoggedIn": true
+    "Email": "gramavtaragg@csc.com"
   },
   "products": [
   {"id": 1, "serialNumber": "1", "name": "Product1", "description": "Test Discription1", "category": "Category1", "warrantyExpiration": "no", "price": 10, "currency": "$"},
